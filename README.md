@@ -4,6 +4,8 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
 
+<img alt="Night Coding" src="![GIF](https://github.com/user-attachments/assets/9ba5e876-ed12-426e-aed5-57b50fd2a255)" align="right"/>
+
 # Tech Stack 🛠
 <!-- Add the symbols of your tech stack here -->
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -15,8 +17,6 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 - ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
-
-![GIF](https://github.com/user-attachments/assets/9ba5e876-ed12-426e-aed5-57b50fd2a255)
 
 # Connect with Me 🤝
 
