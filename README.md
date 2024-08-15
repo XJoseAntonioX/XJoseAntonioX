@@ -4,14 +4,13 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 # Tech Stack 🛠
 <!-- Add the symbols of your tech stack here -->
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white&style=flat)
 - ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat)
+- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=looker&logoColor=white&style=flat)
 - ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
