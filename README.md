@@ -16,5 +16,8 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 - ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 
-# Connect with Me 🤝🏻
+![GIF](https://github.com/user-attachments/assets/9ba5e876-ed12-426e-aed5-57b50fd2a255)
+
+# Connect with Me 🤝
+
 [![LinkedIn](https://img.shields.io/badge/-Jose%20Antonio-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/torres-vil4)
