@@ -6,6 +6,8 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 
 ## Projects 💼
 
+[Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
+
 ## Tech Stack 🛠
 
 <p align="left">
