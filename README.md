@@ -24,8 +24,6 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 
 ## GitHub Analytics ⚙️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xjoseantoniox&show_icons=true&locale=en&layout=compact" alt="xjoseantoniox" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xjoseantoniox&show_icons=true&locale=en" alt="xjoseantoniox" /></p>
 
 ## Connect with Me 🤝
