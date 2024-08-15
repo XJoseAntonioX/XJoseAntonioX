@@ -4,7 +4,8 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
 
-# <img align="right" src="https://picsum.photos/300/200" alt="image" /> Tech Stack 🛠
+<img align="right" src="https://picsum.photos/300/200" alt="image" />
+# Tech Stack 🛠
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white&style=flat)
 - ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
