@@ -4,7 +4,7 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
 
-<img alt="Night Coding" src="![GIF](https://github.com/user-attachments/assets/9ba5e876-ed12-426e-aed5-57b50fd2a255)" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 # Tech Stack 🛠
 <!-- Add the symbols of your tech stack here -->
