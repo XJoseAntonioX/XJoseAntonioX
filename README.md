@@ -16,7 +16,9 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 - ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 
-<img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="800" height="600" align="center">
+<p align="center">
+<img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="800" height="600">
+</p>
 
 # Connect with Me 🤝
 
