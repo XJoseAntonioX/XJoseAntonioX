@@ -4,6 +4,8 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
 
+## Projects 💼
+
 ## Tech Stack 🛠
 
 <p align="left">
