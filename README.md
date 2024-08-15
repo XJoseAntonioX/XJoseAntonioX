@@ -32,4 +32,4 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 
 ## Connect with Me 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-Jose%20Antonio-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/torres-vil4)
+[![LinkedIn](www.linkedin.com/in/torres-vil4)]
