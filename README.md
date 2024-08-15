@@ -6,7 +6,7 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 
 # Tech Stack 🛠
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white&style=flat" alt="SQL" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" alt="Excel" style="margin-right: 10px;"/>
@@ -18,7 +18,7 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat" alt="Streamlit" style="margin-right: 10px;"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="600" height="300">
 </p>
 
