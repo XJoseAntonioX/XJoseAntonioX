@@ -1,7 +1,7 @@
 # Know me 🤓💻
 My name is José Antonio, I'm an apassionate data scientist who is constantly learning and looking for new projects to apply his knowledge and generate a great impact. I have had experience regarding data analysis aspects and development of machine learning models but I am aware that there is something new to learn each day 📈.
 
-🎓  Currently studying Computer Science and Mathematics at the university Tecnológico de Monterrey  
+🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
 
 # Tech Stack 🛠
@@ -17,6 +17,4 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 - ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 
 # Connect with Me 🤝🏻
-[![LinkedIn](https://img.shields.io/badge/-Jose%20Antonio-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/torres-vil4
-
-)
+[![LinkedIn](https://img.shields.io/badge/-Jose%20Antonio-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/torres-vil4)
