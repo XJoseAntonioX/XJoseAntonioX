@@ -6,7 +6,6 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 
 # Tech Stack 🛠
 
-<img align="right" src="https://picsum.photos/300/200" alt="image"/>
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white&style=flat)
 - ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
