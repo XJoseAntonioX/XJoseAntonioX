@@ -5,7 +5,6 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
 
 # Tech Stack 🛠
-<img align="right" src="https://picsum.photos/300/200" alt="image" />
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white&style=flat)
 - ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
@@ -15,6 +14,7 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 - ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+<img align="right" src="https://picsum.photos/300/200" alt="image" />
 
 # Connect with Me 🤝
 
