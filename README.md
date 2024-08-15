@@ -1,10 +1,10 @@
-# About me 🧑‍💻
+## About me 🧑‍💻
 My name is José Antonio, I'm an apassionate data scientist who is constantly learning and looking for new projects to apply his knowledge and generate a great impact. I have had experience regarding data analysis aspects and development of machine learning models but I am aware that there is something new to learn each day 📈.
 
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
 🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
 
-# Tech Stack 🛠
+## Tech Stack 🛠
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" style="margin-right: 10px;"/>
@@ -22,6 +22,6 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
   <img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="600" height="300">
 </p>
 
-# Connect with Me 🤝
+## Connect with Me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/-Jose%20Antonio-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/torres-vil4)
