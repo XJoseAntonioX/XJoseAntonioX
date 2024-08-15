@@ -22,6 +22,8 @@ My name is José Antonio, I'm an apassionate data scientist who is constantly le
   <img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="600" height="300">
 </p>
 
+## GitHub Analytics ⚙️
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xjoseantoniox&show_icons=true&locale=en&layout=compact" alt="xjoseantoniox" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xjoseantoniox&show_icons=true&locale=en" alt="xjoseantoniox" /></p>
