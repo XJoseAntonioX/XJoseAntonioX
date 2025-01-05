@@ -2,11 +2,12 @@
 My name is José Antonio, I am a passionate data scientist who is constantly learning and looking for new projects to apply his knowledge and generate a great impact. I have had experience regarding data analysis aspects and development of machine learning models but I am aware that there is something new to learn each day 📈.
 
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
-🌱  I'm on track for learning more about Artificial Intelligence, Machine Learning and Time Series.
+🌱  I'm on track for learning more about Machine Learning and Time Series Forecastings.
 
 ## Projects 💼
 
 [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
+[Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
 
 ## Tech Stack 🛠
 
