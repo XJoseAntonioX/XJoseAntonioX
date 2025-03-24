@@ -24,8 +24,9 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat" alt="Streamlit" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat" alt="Azure" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" style="margin-right: 10px;"/>
 </p>
-
 <p align="left">
   <img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="600" height="300">
 </p>
