@@ -2,7 +2,7 @@
 My name is José Antonio, I am a passionate data scientist who is constantly learning and looking for new projects to apply his knowledge and generate a great impact. I have had experience regarding data analysis and development of machine learning models but I am aware that there is something new to learn each day 📈.
 
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
-🌱  I'm on track for learning more about Machine Learning, Database Management and Time Series Forecasting.
+🌱  I'm actively developing my expertise in data analysis, time series forecasting, machine learning, artificial intelligence, and DevOps, with a focus on applying these skills to solve real-world challenges.
 
 ## Projects 💼
 
