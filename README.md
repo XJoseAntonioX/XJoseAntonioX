@@ -7,10 +7,10 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 ## Projects 💼
 
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
-│ 
-[Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
-│ 
-[Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
+ 
+### [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
+
+### [Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
 
 ## Tech Stack 🛠
 
