@@ -15,8 +15,10 @@ Visualize, hear and read a complete guide on how to arrange products given a pla
 **⚙️ Technologies:** 
 
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()
-[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
+[![Next.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=for-the-badge)]()
 
 **☁️ Azure AI & Cloud Services** 
 
