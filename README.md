@@ -32,19 +32,19 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ⚙️ Technologies: 
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()  
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)]()  
-[![Fluent UI](https://img.shields.io/badge/FluentUI-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)]()  
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)]()  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)]()
+[![Fluent UI](https://img.shields.io/badge/FluentUI-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)]()
 
 ☁️ Azure AI & Cloud Services
 
-[![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()  
-[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()  
-[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge)]()  
-[![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-003366?logo=azure-devops&logoColor=white&style=for-the-badge)]()  
+[![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()
+[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge)]()
+[![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-003366?logo=azure-devops&logoColor=white&style=for-the-badge)]()
 [![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-2D6EDF?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
 
 ![Microsoft Hackathon](./assets/Microsoft_Hack.png)
@@ -65,14 +65,14 @@ Developed end-to-end data workflows:
 
 ⚙️ Technologies: 
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()  
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)]()  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()  
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)]()  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()  
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge)]()  
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()  
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-43B02A?logo=python&logoColor=white&style=for-the-badge)]()  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-43B02A?logo=python&logoColor=white&style=for-the-badge)]()
 [![Folium](https://img.shields.io/badge/Folium-77B829?logo=python&logoColor=white&style=for-the-badge)]()
 
 ![Purple Air](./assets/Purple_Air.png)
