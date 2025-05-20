@@ -6,7 +6,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ## Projects 💼
 
-### [FEMSA Hackathon Project – GIPlan](https://github.com/ferDMS/ms-challenge](https://github.com/XJoseAntonioX/OXXO)
+### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
 
 ![FEMSA Hackathon](./FEMSA_Hack.png)
 
