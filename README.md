@@ -50,10 +50,7 @@ _Time series modeling (LSTM and regressions) to predict PM2.5 behavior across mo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xjoseantoniox&show_icons=true&locale=en" alt="xjoseantoniox" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xjoseantoniox&show_icons=true&locale=en" alt="xjoseantoniox" />
-</p>
-
 ## Connect with Me 🤝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/torres-vil4/)
 
 [![LinkedIn](https://img.shields.io/badge/-Jose%20Antonio-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/torres-vil4/)
