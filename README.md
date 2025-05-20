@@ -56,9 +56,9 @@ AI-powered platform that assists employment coaches working with people with dis
 ### [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)  
 
 **🌫️ Improving air quality data management and analysis**   
+**<sub>Geospatial Analysis · Machine Learning · Time Series Analysis · Statistical Tests</sub>**
 
-Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area by including:  
-Geospatial Analysis · Machine Learning  · Time Series Analysis · Statistical Tests
+Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area.  
 
 Developed end-to-end data workflows: 
 - Automated data ingestion via API
