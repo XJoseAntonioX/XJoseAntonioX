@@ -13,9 +13,9 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 **Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error at the moment of placing them.**  
 
 ⚙️ Technologies: 
-- [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()  
-- [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
-- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()  
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
 
 ☁️ Azure AI & Cloud Services
 - [![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()  
@@ -29,6 +29,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 **AI-powered platform that assists employment coaches working with people with disabilities, enhancing productivity and job-matching outcomes.**  
 
 ⚙️ Technologies: 
+
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()  
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()  
