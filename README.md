@@ -8,29 +8,31 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
 
-🛒 Smart planogram tool  
+**🛒 Smart planogram tool** 
 
-**Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error at the moment of placing them.**  
+Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error at the moment of placing them.  
 
-⚙️ Technologies: 
+**⚙️ Technologies:** 
 
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
 
-☁️ Azure AI & Cloud Services
+**☁️ Azure AI & Cloud Services** 
 
 [![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()  
 
 ![FEMSA Hackathon](./assets/FEMSA_Hack.png)
 
+---
+
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
 
-🧩 Empowering job coaches, enabling careers
+**🧩 Empowering job coaches, enabling careers** 
 
-**AI-powered platform that assists employment coaches working with people with disabilities, enhancing productivity and job-matching outcomes.**  
+AI-powered platform that assists employment coaches working with people with disabilities, enhancing productivity and job-matching outcomes.   
 
-⚙️ Technologies: 
+**⚙️ Technologies:** 
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()
@@ -39,7 +41,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)]()
 
-☁️ Azure AI & Cloud Services
+**☁️ Azure AI & Cloud Services** 
 
 [![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
 [![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()
@@ -49,14 +51,14 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ![Microsoft Hackathon](./assets/Microsoft_Hack.png)
 
-### [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
+---
 
-### Purple Air  
+### [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)  
 
-🌫️ Improving air quality data management and analysis  
+**🌫️ Improving air quality data management and analysis**   
 
-**Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area by including:**  
-📊 Geospatial Analysis · Machine Learning  · Time Series Analysis · Statistical Tests
+Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area by including:
+Geospatial Analysis · Machine Learning  · Time Series Analysis · Statistical Tests
 
 Developed end-to-end data workflows: 
 - Automated data ingestion via API
@@ -79,13 +81,16 @@ Developed end-to-end data workflows:
 
 ![Purple Air](./assets/Purple_Air.png)
 
+---
+
 ### [Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
 
-🌫️ Forecasting pollution to improve urban health  
-**Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, and NOX concentrations in Monterrey, supported by:**
-📊 Signal Processing · Spectral Analysis · Geospatial Analysis · Machine Learning · Feature Engineering
+**🌫️ Forecasting pollution to improve urban health**  
 
-⚙️ Technologies: 
+Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, and NOX concentrations in Monterrey, supported by:
+Signal Processing · Spectral Analysis · Geospatial Analysis · Machine Learning · Feature Engineering
+
+**⚙️ Technologies:** 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()
@@ -96,7 +101,7 @@ Developed end-to-end data workflows:
 [![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?logo=seaborn&logoColor=white&style=for-the-badge)]()
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
 
-![Purple Air](./assets/Purple_Air.png)
+![Purple Air](./assets/Monterrey.png)
 
 ## Tech Stack 🛠
 
