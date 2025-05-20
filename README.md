@@ -6,13 +6,21 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ## Projects 💼
 
+### [FEMSA Hackathon Project – GIPlan](https://github.com/ferDMS/ms-challenge](https://github.com/XJoseAntonioX/OXXO)
+
+![FEMSA Hackathon](./FEMSA_Hack.png)
+
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
 
 _AI-powered tool for enhancing candidate evaluation using semantic matching._
 
+![Microsoft Hackathon](./assets/Microsoft_Hack.png)
+
 ### [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
 
 _Data pipeline and dashboard for air quality monitoring in the metropolitan area of Monterrey._
+
+![Purple Air](./assets/Purple_Air.png)
 
 ### [Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
 
