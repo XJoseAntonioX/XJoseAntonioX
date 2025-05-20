@@ -86,9 +86,9 @@ Developed end-to-end data workflows:
 ### [Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
 
 **🌫️ Forecasting pollution to improve urban health**  
+**<sub>Signal Processing · Spectral Analysis · Geospatial Analysis · Machine Learning · Feature Engineering</sub>**
 
-Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, and NOX concentrations in Monterrey, supported by:  
-Signal Processing · Spectral Analysis · Geospatial Analysis · Machine Learning · Feature Engineering
+Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, and NOX concentrations in Monterrey.
 
 **⚙️ Technologies:** 
 
