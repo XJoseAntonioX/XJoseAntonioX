@@ -4,8 +4,6 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
 🌱  I'm actively developing my expertise in data analysis, time series forecasting, machine learning, artificial intelligence, and DevOps, with a focus on applying these skills to solve real-world challenges.
 
----
-
 ## Projects 💼
 
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
@@ -20,11 +18,7 @@ _Data pipeline and dashboard for air quality monitoring in the metropolitan area
 
 _Time series modeling (LSTM and regressions) to predict PM2.5 behavior across monitoring stations._
 
----
-
 ## Tech Stack 🛠
-
----
 
 ### 📊 Reports & Dashboards  
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=for-the-badge)]()  
@@ -53,19 +47,13 @@ _Time series modeling (LSTM and regressions) to predict PM2.5 behavior across mo
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()  
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
 
-
-
 <p align="left">
   <img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="600" height="300">
 </p>
 
----
-
 ## GitHub Analytics ⚙️
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xjoseantoniox&show_icons=true&locale=en" alt="xjoseantoniox" /></p>
-
----
 
 ## Connect with Me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Antonio-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/torres-vil4/)
