@@ -8,7 +8,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
 
-![FEMSA Hackathon](./FEMSA_Hack.png)
+![FEMSA Hackathon](./assets/FEMSA_Hack.png)
 
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
 
