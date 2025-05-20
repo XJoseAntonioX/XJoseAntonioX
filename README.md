@@ -10,7 +10,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 🛒 Smart planogram tool  
 
-**Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error when placing them.**  
+**Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error at the moment of placing them.**  
 
 ⚙️ Technologies: 
 - [![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
@@ -22,7 +22,26 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
 
-_AI-powered tool for enhancing candidate evaluation using semantic matching._
+🧩 Empowering job coaches, enabling careers
+
+**AI-powered platform that assists employment coaches working with people with disabilities, enhancing productivity and job-matching outcomes.**  
+
+⚙️ Technologies: 
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()  
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)]()  
+[![Fluent UI](https://img.shields.io/badge/FluentUI-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)]()  
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)]()  
+
+## ☁️ Azure AI & Cloud Services
+
+[![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()  
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()  
+[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge)]()  
+[![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-003366?logo=azure-devops&logoColor=white&style=for-the-badge)]()  
+[![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-2D6EDF?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
 
 ![Microsoft Hackathon](./assets/Microsoft_Hack.png)
 
