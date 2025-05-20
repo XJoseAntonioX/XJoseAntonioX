@@ -18,7 +18,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 - [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
 
 ☁️ Azure AI & Cloud Services
-- [![Azure OpenAI](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
+- [![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()  
 
 ![FEMSA Hackathon](./assets/FEMSA_Hack.png)
 
