@@ -140,7 +140,7 @@ Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)]()
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()
-[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()
 
 <p align="left">
   <img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="600" height="300">
