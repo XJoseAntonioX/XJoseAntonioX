@@ -126,7 +126,7 @@ Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, 
 [![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?logo=seaborn&logoColor=white&style=for-the-badge)]()
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
 
-### 🧠 Database Management
+### 🗄️ Database Management
 [![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white&style=for-the-badge)]()
 
 ### ⚙️ Software Engineering & DevOps  
