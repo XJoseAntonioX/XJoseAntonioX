@@ -8,6 +8,10 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
 
+🛒 Herramienta inteligente para planogramas  
+**Visualiza y escucha cómo acomodar productos en tienda con instrucciones claras, animadas y auditivas generadas por IA.**  
+Tecnologías: Next.js, Tailwind CSS, Flask, Azure OpenAI  
+
 ![FEMSA Hackathon](./assets/FEMSA_Hack.png)
 
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
