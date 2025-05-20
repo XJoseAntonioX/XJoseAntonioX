@@ -57,7 +57,7 @@ AI-powered platform that assists employment coaches working with people with dis
 
 **🌫️ Improving air quality data management and analysis**   
 
-Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area by including:
+Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area by including:  
 Geospatial Analysis · Machine Learning  · Time Series Analysis · Statistical Tests
 
 Developed end-to-end data workflows: 
@@ -87,7 +87,7 @@ Developed end-to-end data workflows:
 
 **🌫️ Forecasting pollution to improve urban health**  
 
-Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, and NOX concentrations in Monterrey, supported by:
+Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, and NOX concentrations in Monterrey, supported by:  
 Signal Processing · Spectral Analysis · Geospatial Analysis · Machine Learning · Feature Engineering
 
 **⚙️ Technologies:** 
