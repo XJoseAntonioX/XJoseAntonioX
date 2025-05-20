@@ -7,12 +7,40 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 ## Projects 💼
 
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
- 
+
+_AI-powered tool for enhancing candidate evaluation using semantic matching._
+
 ### [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
+
+_Data pipeline and dashboard for air quality monitoring in the metropolitan area of Monterrey._
 
 ### [Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
 
+_Time series modeling (LSTM and regressions) to predict PM2.5 behavior across monitoring stations._
+
 ## Tech Stack 🛠
+
+### 📊 Reports & Dashboards
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat)
+- ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=looker&logoColor=white&style=flat)
+- ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+
+### ☁️ Cloud Platforms
+- ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat)
+- ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+
+### 🧠 Machine Learning & Forecasting
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white&style=flat)
+
+### ⚙️ Software Engineering & DevOps
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" style="margin-right: 10px;"/>
