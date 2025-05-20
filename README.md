@@ -8,9 +8,15 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
 
-🛒 Herramienta inteligente para planogramas  
-**Visualiza y escucha cómo acomodar productos en tienda con instrucciones claras, animadas y auditivas generadas por IA.**  
-Tecnologías: Next.js, Tailwind CSS, Flask, Azure OpenAI  
+🛒 Smart planogram tool  
+
+**Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with location of each prodocut in rack, to workers in order to reduce margin of error when placing them.**  
+
+⚙️ Technologies: 
+- [![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
+- [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()  
+- [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
+- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()  
 
 ![FEMSA Hackathon](./assets/FEMSA_Hack.png)
 
