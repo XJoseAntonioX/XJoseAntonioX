@@ -56,9 +56,9 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 **Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area.**  
 
 Developed end-to-end data workflows: 
-- Automated data ingestion via API,
+- Automated data ingestion via API
 - Preprocessing with pandas and numpy
-- Visual analysis using matplotlib, seaborn, and plotly
+- Conducted exploratory and descriptive analysis using matplotlib, seaborn, and plotly
 - Performed geospatial analysis using geopandas and folium, alongside regression modeling with scikit-learn
 
 ⚙️ Technologies: 
