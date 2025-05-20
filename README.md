@@ -55,7 +55,8 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 🌫️ Improving air quality data management and analysis  
 
-**Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area.**  
+**Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area by including:**  
+📊 Geospatial Analysis · Machine Learning  · Time Series Analysis · Statistical Tests
 
 Developed end-to-end data workflows: 
 - Automated data ingestion via API
@@ -68,6 +69,7 @@ Developed end-to-end data workflows:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)]()
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
@@ -79,7 +81,22 @@ Developed end-to-end data workflows:
 
 ### [Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
 
-_Time series modeling (LSTM and regressions) to predict PM2.5 behavior across monitoring stations._
+🌫️ Forecasting pollution to improve urban health  
+**Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, and NOX concentrations in Monterrey, supported by:**
+📊 Signal Processing · Spectral Analysis · Geospatial Analysis · Machine Learning · Feature Engineering
+
+⚙️ Technologies: 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)]()
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-003B57?logo=geopandas&logoColor=white&style=for-the-badge)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()
+[![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?logo=seaborn&logoColor=white&style=for-the-badge)]()
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
+
+![Purple Air](./assets/Purple_Air.png)
 
 ## Tech Stack 🛠
 
