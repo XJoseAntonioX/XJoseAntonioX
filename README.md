@@ -13,10 +13,12 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 **Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error at the moment of placing them.**  
 
 ⚙️ Technologies: 
-- [![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
 - [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()  
 - [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)]()
-- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()  
+- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
+
+☁️ Azure AI & Cloud Services
+- [![Azure OpenAI](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
 
 ![FEMSA Hackathon](./assets/FEMSA_Hack.png)
 
@@ -47,7 +49,29 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ### [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
 
-_Data pipeline and dashboard for air quality monitoring in the metropolitan area of Monterrey._
+### Purple Air  
+
+🌫️ Improving air quality data management and analysis  
+
+**Streamlit-based web app that automates API requests, processes over 180,000 sensor records, and visualizes environmental data to support decision-making in Monterrey's metropolitan area.**  
+
+Developed end-to-end data workflows: 
+- Automated data ingestion via API,
+- Preprocessing with pandas and numpy
+- Visual analysis using matplotlib, seaborn, and plotly
+- Performed geospatial analysis using geopandas and folium, alongside regression modeling with scikit-learn
+
+⚙️ Technologies: 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)]()  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)]()  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()  
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge)]()  
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()  
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-43B02A?logo=python&logoColor=white&style=for-the-badge)]()  
+[![Folium](https://img.shields.io/badge/Folium-77B829?logo=python&logoColor=white&style=for-the-badge)]()
 
 ![Purple Air](./assets/Purple_Air.png)
 
