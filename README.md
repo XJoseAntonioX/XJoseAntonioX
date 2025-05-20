@@ -23,6 +23,9 @@ _Time series modeling (LSTM and regressions) to predict PM2.5 behavior across mo
 ---
 
 ## Tech Stack 🛠
+
+---
+
 ### 📊 Reports & Dashboards  
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=for-the-badge)]()  
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white&style=for-the-badge)]()  
