@@ -10,7 +10,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 🛒 Smart planogram tool  
 
-**Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with location of each prodocut in rack, to workers in order to reduce margin of error when placing them.**  
+**Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error when placing them.**  
 
 ⚙️ Technologies: 
 - [![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
