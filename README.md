@@ -6,7 +6,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ## Projects 💼
 
-[### Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
+### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
 │ 
 [Cómite Ecológico Integral](https://github.com/XJoseAntonioX/PA-Reporte)
 │ 
