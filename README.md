@@ -43,6 +43,7 @@ Developed an end-to-end analysis pipeline:
 - Visualized clusters on historical price series to support quantitative trading strategies
 
 **⚙️ Technologies:**  
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)]()
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)]()
