@@ -28,7 +28,7 @@ Visualize, hear and read a complete guide on how to arrange products given a pla
 
 ---
 
-### [Topological Data Analysis for Quantitative Bitcoin Trading (2013–2021)](https://github.com/XJoseAntonioX/Examen_Topo)
+### [Topological Data Analysis for Quantitative Bitcoin Trading](https://github.com/XJoseAntonioX/Bitcoin_Regimes)
 
 **📈 Uncovering market regimes in Bitcoin with Topological Data Analysis**  
 **<sub>Topological Data Analysis · Time Series Feature Engineering · Unsupervised Clustering · Persistent Homology</sub>**
