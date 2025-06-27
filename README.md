@@ -28,6 +28,33 @@ Visualize, hear and read a complete guide on how to arrange products given a pla
 
 ---
 
+### [Topological Data Analysis for Quantitative Bitcoin Trading (2013–2021)](https://github.com/XJoseAntonioX/Examen_Topo)
+
+**📈 Uncovering market regimes in Bitcoin with Topological Data Analysis**
+**<sub>Topological Data Analysis · Time Series Feature Engineering · Unsupervised Clustering · Persistent Homology</sub>**
+
+Analyzed Bitcoin price data (2013–2021) to uncover hidden market regimes and periodicities using advanced topological methods.
+
+Developed an end-to-end analysis pipeline:
+- Engineered time series features (moving averages, volatility, log returns)
+- Applied Takens embedding for phase space reconstruction
+- Computed persistent homology (Vietoris-Rips complex) to detect cycles and trends
+- Clustered with the Mapper algorithm to identify bullish, bearish, and sideways regimes
+- Visualized clusters on historical price series to support quantitative trading strategies
+
+**⚙️ Technologies:**  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
+[![giotto-tda](https://img.shields.io/badge/giotto--tda-4B8BBE?logo=python&logoColor=white&style=for-the-badge)]()
+
+![Bitcoin TDA](./assets/Crypto.png)
+
+---
+
 ### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
 
 **🧩 Empowering job coaches, enabling careers** 
