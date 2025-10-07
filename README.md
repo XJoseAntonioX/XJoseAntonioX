@@ -6,57 +6,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ## Projects 💼
 
-### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
-
-**🛒 Smart planogram tool** 
-
-Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error at the moment of placing them.  
-
-**⚙️ Technologies:** 
-
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=for-the-badge)]()
-
-**☁️ Azure AI & Cloud Services** 
-
-[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()  
-
-![FEMSA Hackathon](./assets/FEMSA_Hack.png)
-
----
-
-### [Topological Data Analysis for Quantitative Bitcoin Trading](https://github.com/XJoseAntonioX/Bitcoin_Regimes)
-
-**📈 Uncovering market regimes in Bitcoin with Topological Data Analysis**  
-**<sub>Topological Data Analysis · Time Series Feature Engineering · Unsupervised Clustering · Persistent Homology</sub>**
-
-Analyzed Bitcoin price data (2013–2021) to uncover hidden market regimes and periodicities using advanced topological methods.
-
-Developed an end-to-end analysis pipeline:
-- Engineered time series features (moving averages, volatility, log returns)
-- Applied Takens embedding for phase space reconstruction
-- Computed persistent homology (Vietoris-Rips complex) to detect cycles and trends
-- Clustered with the Mapper algorithm to identify bullish, bearish, and sideways regimes
-- Visualized clusters on historical price series to support quantitative trading strategies
-
-**⚙️ Technologies:**  
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
-[![giotto-tda](https://img.shields.io/badge/giotto--tda-4B8BBE?logo=python&logoColor=white&style=for-the-badge)]()
-
-![Bitcoin TDA](./assets/Crypto.png)
-
----
-
-### [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
+### 🥈 [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
 
 **🧩 Empowering job coaches, enabling careers** 
 
@@ -113,6 +63,34 @@ Developed end-to-end data workflows:
 
 ---
 
+### [Topological Data Analysis for Quantitative Bitcoin Trading](https://github.com/XJoseAntonioX/Bitcoin_Regimes)
+
+**📈 Uncovering market regimes in Bitcoin with Topological Data Analysis**  
+**<sub>Topological Data Analysis · Time Series Feature Engineering · Unsupervised Clustering · Persistent Homology</sub>**
+
+Analyzed Bitcoin price data (2013–2021) to uncover hidden market regimes and periodicities using advanced topological methods.
+
+Developed an end-to-end analysis pipeline:
+- Engineered time series features (moving averages, volatility, log returns)
+- Applied Takens embedding for phase space reconstruction
+- Computed persistent homology (Vietoris-Rips complex) to detect cycles and trends
+- Clustered with the Mapper algorithm to identify bullish, bearish, and sideways regimes
+- Visualized clusters on historical price series to support quantitative trading strategies
+
+**⚙️ Technologies:**  
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
+[![giotto-tda](https://img.shields.io/badge/giotto--tda-4B8BBE?logo=python&logoColor=white&style=for-the-badge)]()
+
+![Bitcoin TDA](./assets/Crypto.png)
+
+---
+
 ### [Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
 
 **🌫️ Forecasting pollution to improve urban health**  
@@ -132,6 +110,28 @@ Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, 
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
 
 ![Purple Air](./assets/Monterrey.png)
+
+---
+
+### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
+
+**🛒 Smart planogram tool** 
+
+Visualize, hear and read a complete guide on how to arrange products given a planogram: a csv file with locations of each product in rack, to workers in order to reduce margin of error at the moment of placing them.  
+
+**⚙️ Technologies:** 
+
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=for-the-badge)]()
+
+**☁️ Azure AI & Cloud Services** 
+
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=openai&logoColor=white&style=for-the-badge)]()  
+
+![FEMSA Hackathon](./assets/FEMSA_Hack.png)
 
 ## Tech Stack 🛠
 
@@ -169,6 +169,7 @@ Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)]()
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)]()
 
 <p align="left">
   <img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="600" height="300">
