@@ -175,9 +175,5 @@ Visualize, hear and read a complete guide on how to arrange products given a pla
   <img alt="Night Coding" src="https://github.com/user-attachments/assets/c3cdddb3-e00a-4011-86b7-523ce56e5ce5" width="600" height="300">
 </p>
 
-## GitHub Analytics ⚙️
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xjoseantoniox&show_icons=true&locale=en" alt="xjoseantoniox" /></p>
-
 ## Connect with Me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Antonio-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/torres-vil4/)
