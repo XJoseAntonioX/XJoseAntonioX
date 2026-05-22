@@ -8,7 +8,7 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ### 🥈 [SAP Hackathon Project – SAP Sentinel](https://github.com/XJoseAntonioX/SAP-Competition)
 
-**SIEM platform for cyber attack detection**  
+**🛡️ SIEM platform for cyber attack detection**  
 **<sub>MLOps · Unsupervised Learning · SAP · Azure · DevOps</sub>**
 
 A security platform that ingests logs into SAP HANA through a 30-minute scheduled job querying a SAP server API, then applies an unsupervised learning model (Isolation Forest) to detect cybersecurity threats and deliver real-time alerts so SOC teams can act and mitigate them.
