@@ -6,6 +6,38 @@ My name is José Antonio, I am a passionate data scientist who is constantly lea
 
 ## Projects 💼
 
+### 🛡️ [SAP Hackathon Project – SAP Sentinel](https://github.com/XJoseAntonioX/SAP-Competition)
+
+**🔐 Real-time anomaly detection for enterprise SAP & AI services**  
+**<sub>Anomaly Detection · MLOps · Real-Time Streaming · Time Series</sub>**
+
+Security platform deployed on SAP Cloud Foundry that ingests logs into SAP HANA and uses Azure ML (Isolation Forest) for millisecond anomaly detection, eliminating "alert fatigue" and empowering SOC teams to visualize and act on threats in real time.
+
+Built an end-to-end, event-driven security pipeline:
+- Non-intrusive polling ingestion from SAP into SAP HANA
+- Dual Isolation Forest models for WEB and AI/LLM traffic
+- Governed MLOps lifecycle with MLflow tracking and Azure ML registry
+- Real-time SOC alerting via WebSockets with integrated ticketing
+
+**⚙️ Technologies:** 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)]()
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)]()
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge)]()
+
+**☁️ SAP & Azure Cloud Services** 
+
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white&style=for-the-badge)]()
+[![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?logo=sap&logoColor=white&style=for-the-badge)]()
+[![SAP Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0FAAFF?logo=cloudfoundry&logoColor=white&style=for-the-badge)]()
+[![Azure Machine Learning](https://img.shields.io/badge/Azure%20ML-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)]()
+
+![SAP Sentinel](./assets/SAP_Sentinel.png)
+
 ### 🥈 [Microsoft Hackathon Project – Workable AI](https://github.com/ferDMS/ms-challenge)
 
 **🧩 Empowering job coaches, enabling careers** 
