@@ -117,28 +117,6 @@ Developed an end-to-end analysis pipeline:
 
 ---
 
-### [Air quality analysis and forecasting](https://github.com/XJoseAntonioX/Air_quality_analysis_and_forecasting)
-
-**🌫️ Forecasting pollution to improve urban health**  
-**<sub>Signal Processing · Spectral Analysis · Geospatial Analysis · Machine Learning · Feature Engineering</sub>**
-
-Time series forecasting project using LSTM networks to predict PM10, SO₂, CO, and NOX concentrations in Monterrey.
-
-**⚙️ Technologies:** 
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)]()
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)]()
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-003B57?logo=geopandas&logoColor=white&style=for-the-badge)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)]()
-[![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?logo=seaborn&logoColor=white&style=for-the-badge)]()
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)]()
-
-![Purple Air](./assets/Monterrey.png)
-
----
-
 ### [FEMSA Hackathon Project – GIPlan](https://github.com/XJoseAntonioX/OXXO)
 
 **🛒 Smart planogram tool** 
