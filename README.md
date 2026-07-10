@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="800" height="159" style="object-fit: cover; object-position: center top;" alt="stars" src="https://github.com/user-attachments/assets/a0ebc6f8-36a4-4927-9302-6e767e770164" />
-</p>
-
-
 ## About me 🧑‍💻
 
 Hi! I'm José Antonio, a recent Data Science and Mathematics graduate with experience in full-stack development, cloud technologies, and machine learning. I enjoy building reliable and scalable AI/ML systems and applying statistical and quantitative methods to solve real-world problems.
