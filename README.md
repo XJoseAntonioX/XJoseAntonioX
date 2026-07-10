@@ -5,10 +5,15 @@ Hi! I'm José Antonio, a recent Data Science and Mathematics graduate with exper
 I am always looking for new ways to improve processes, build better software, and deliver high-quality solutions.
 
 🎓 B.S. in Data Science and Mathematics — Tecnológico de Monterrey
+
 🚀 Proactivity
+
 💡 Initiative
+
 🤝 Ownership
+
 🎯 Discipline
+
 ✅ Commitment
 
 ## Projects 💼
