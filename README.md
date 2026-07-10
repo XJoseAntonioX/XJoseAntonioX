@@ -6,7 +6,7 @@ I am always looking for new ways to improve processes, build better software, an
 
 🎓 B.S. in Data Science and Mathematics - Tecnológico de Monterrey
 
-🚀 Proactivity&nbsp;&nbsp;•&nbsp;&nbsp;💡 Initiative&nbsp;&nbsp;•&nbsp;&nbsp;🤝 Ownership&nbsp;&nbsp;•&nbsp;&nbsp;🎯 Discipline&nbsp;&nbsp;•&nbsp;&nbsp;✅ Commitment
+🚀 Proactivity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;💡 Initiative&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;🤝 Ownership&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;🎯 Discipline&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;✅ Commitment
 
 ## Projects 💼
 
