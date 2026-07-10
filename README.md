@@ -1,12 +1,7 @@
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/7b6d0595-6ab1-45fd-b218-bc1fc9b68438"
-    width="850"
-    height="200"
-    style="object-fit: cover; object-position: center top;"
-    alt="stars"
-  />
+  <img width="800" height="159" style="object-fit: cover; object-position: center top;" alt="stars" src="https://github.com/user-attachments/assets/a0ebc6f8-36a4-4927-9302-6e767e770164" />
 </p>
+
 
 ## About me 🧑‍💻
 
