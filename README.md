@@ -1,8 +1,17 @@
-## About me 🧑‍💻
-My name is José Antonio, I am a passionate data scientist who is constantly learning and looking for new projects to apply his knowledge and generate a great impact. I have had experience regarding data analysis and development of machine learning models but I am aware that there is something new to learn each day 📈.
+<img width="800" height="450" alt="stars" src="https://github.com/user-attachments/assets/7b6d0595-6ab1-45fd-b218-bc1fc9b68438" />
 
-🎓  Currently studying Data Science and Mathematics at the university Tecnológico de Monterrey  
-🌱  I'm actively developing my expertise in data analysis, time series forecasting, machine learning, artificial intelligence, and DevOps, with a focus on applying these skills to solve real-world challenges.
+## About me 🧑‍💻
+
+Hi! I'm José Antonio, a recent Data Science and Mathematics graduate with experience in full-stack development, cloud technologies, and machine learning. I enjoy building reliable and scalable AI/ML systems and applying statistical and quantitative methods to solve real-world problems.
+
+I am always looking for new ways to improve processes, build better software, and deliver high-quality solutions.
+
+🎓 B.S. in Data Science and Mathematics — Tecnológico de Monterrey
+🚀 Proactivity
+💡 Initiative
+🤝 Ownership
+🎯 Discipline
+✅ Commitment
 
 ## Projects 💼
 
