@@ -1,4 +1,12 @@
-<img width="800" height="450" alt="stars" src="https://github.com/user-attachments/assets/7b6d0595-6ab1-45fd-b218-bc1fc9b68438" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/7b6d0595-6ab1-45fd-b218-bc1fc9b68438"
+    width="850"
+    height="200"
+    style="object-fit: cover; object-position: center top;"
+    alt="stars"
+  />
+</p>
 
 ## About me 🧑‍💻
 
